@@ -3,3 +3,7 @@ __pycache__
 .ash_history
 .local
 .cache
+venv
+.pytest_cache
+.idea
+.python_history
